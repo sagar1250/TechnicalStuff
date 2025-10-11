@@ -18,3 +18,7 @@ To structure that data in the memory, they have proposed N number of algorithms.
 
 
 
+
+### what si hub - sons trends:
+
+Hub-Sons is the term associated with male in US who are choosing to quit their jobs live with their parents and help with household chores. About the trend family therapist Kathryn Smerling said, "They feel safe a database secure with there parents in a very conflectual world". she also linked the trend with inflation job and housing markets.
