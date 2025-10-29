@@ -32,3 +32,5 @@ Advantages of GitHub App over PAT Token:
 ->Enhanced security
 -> OAuth-based authentication
 
+PAT means personal access token.
+
