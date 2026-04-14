@@ -34,3 +34,13 @@ Advantages of GitHub App over PAT Token:
 
 PAT means personal access token.
 
+
+
+
+## SwaggerHub
+
+Swagger:- Tools provided by the SmartBear company
+
+OpenAPI:- API specification defined & managed by the OpenAPI Initiative.
+
+
