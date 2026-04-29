@@ -1,2 +1,7 @@
 ## Linux
 ->1969 when Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in the C programming language.
+
+->Linux is case-sensitive: echo, Echo, and ECHO are all different.
+
+->Spaces matter. Make sure there's a space between echo and the quotation mark (").
+->The quotes tell echo precisely what string of text to repeat.
