@@ -1,6 +1,6 @@
 # TechnicalStuff
 
-#1234
+#12345
 
 https://www.javatpoint.com/data-structure-tutorial
 
